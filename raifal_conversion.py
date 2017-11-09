@@ -11,4 +11,15 @@ def inches_to_mm(inches):
     return mm
 
 
-#  ToDo(Developer B): add a function to convert from inches to cm))
+#  ToDo(Developer B): add a function to convert from inches to cm)---> ok!!!
+
+
+def inches_to_cm(inches):
+
+    cm = inches_to_mm(inches) * cm
+    return cm
+
+#  ToDo(Developer a): add a function to convert from inches to m))
+
+
+    
